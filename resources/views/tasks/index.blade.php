@@ -53,7 +53,7 @@
                     @csrf 
                     
                     <div>
-                        <label for="task" class="block text-xs font-medium text-slate-300 uppercase tracking-wider mb-2">Task Title</label>
+                        <label for="task" class="block text-xs font-medium text-slate-300 uppercase tracking-wider mb-2">Task</label>
                         <input 
                             type="text" 
                             id="task" 
